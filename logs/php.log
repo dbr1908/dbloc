@@ -1,0 +1,100 @@
+[Sun May 30 19:40:20 2021] PHP 8.0.6 Development Server (http://0.0.0.0:1995) started
+[Sun May 30 19:40:23 2021] 127.0.0.1:38974 Accepted
+[Sun May 30 19:40:23 2021] 127.0.0.1:38974 [200]: (null) /index.html
+[Sun May 30 19:40:23 2021] 127.0.0.1:38974 Closing
+[Sun May 30 19:40:50 2021] 127.0.0.1:38998 Accepted
+[Sun May 30 19:40:50 2021] 127.0.0.1:38998 [200]: (null) /
+[Sun May 30 19:40:50 2021] 127.0.0.1:38998 Closing
+[Sun May 30 19:40:52 2021] 127.0.0.1:39010 Accepted
+[Sun May 30 19:40:52 2021] 127.0.0.1:39010 [200]: (null) /css/main.css
+[Sun May 30 19:40:52 2021] 127.0.0.1:39010 Closing
+[Sun May 30 19:40:52 2021] 127.0.0.1:39016 Accepted
+[Sun May 30 19:40:52 2021] 127.0.0.1:39016 [200]: (null) /js/location.js
+[Sun May 30 19:40:52 2021] 127.0.0.1:39016 Closing
+[Sun May 30 19:40:52 2021] 127.0.0.1:39026 Accepted
+[Sun May 30 19:40:52 2021] 127.0.0.1:39026 [200]: (null) /js/main.js
+[Sun May 30 19:40:52 2021] 127.0.0.1:39026 Closing
+[Sun May 30 19:40:52 2021] 127.0.0.1:39028 Accepted
+[Sun May 30 19:40:52 2021] 127.0.0.1:39028 [200]: (null) /
+[Sun May 30 19:40:52 2021] 127.0.0.1:39028 Closing
+[Sun May 30 19:40:53 2021] 127.0.0.1:39036 Accepted
+[Sun May 30 19:40:53 2021] 127.0.0.1:39036 [200]: (null) /js/info.js
+[Sun May 30 19:40:53 2021] 127.0.0.1:39036 Closing
+[Sun May 30 19:40:53 2021] 127.0.0.1:39040 Accepted
+[Sun May 30 19:40:53 2021] 127.0.0.1:39040 [200]: (null) /js/warpspeed.min.js
+[Sun May 30 19:40:53 2021] 127.0.0.1:39040 Closing
+[Sun May 30 19:40:56 2021] 127.0.0.1:39058 Accepted
+[Sun May 30 19:40:56 2021] 127.0.0.1:39056 Accepted
+[Sun May 30 19:40:56 2021] 127.0.0.1:39060 Accepted
+[Sun May 30 19:40:56 2021] 127.0.0.1:39058 [200]: (null) /css/main.css
+[Sun May 30 19:40:56 2021] 127.0.0.1:39060 [200]: (null) /js/warpspeed.min.js
+[Sun May 30 19:40:56 2021] 127.0.0.1:39058 Closing
+[Sun May 30 19:40:56 2021] 127.0.0.1:39056 [200]: (null) /js/info.js
+[Sun May 30 19:40:56 2021] 127.0.0.1:39060 Closing
+[Sun May 30 19:40:56 2021] 127.0.0.1:39056 Closing
+[Sun May 30 19:40:56 2021] 127.0.0.1:39063 Accepted
+[Sun May 30 19:40:56 2021] 127.0.0.1:39062 Accepted
+[Sun May 30 19:40:56 2021] 127.0.0.1:39062 [200]: (null) /js/main.js
+[Sun May 30 19:40:56 2021] 127.0.0.1:39062 Closing
+[Sun May 30 19:40:56 2021] 127.0.0.1:39063 [200]: (null) /js/location.js
+[Sun May 30 19:40:56 2021] 127.0.0.1:39063 Closing
+[Sun May 30 19:40:57 2021] 127.0.0.1:39066 Accepted
+[Sun May 30 19:40:57 2021] 127.0.0.1:39066 [200]: (null) /
+[Sun May 30 19:40:57 2021] 127.0.0.1:39066 Closing
+[Sun May 30 19:40:58 2021] 127.0.0.1:39076 Accepted
+[Sun May 30 19:40:58 2021] 127.0.0.1:39076 [200]: (null) /css/main.css
+[Sun May 30 19:40:58 2021] 127.0.0.1:39076 Closing
+[Sun May 30 19:40:58 2021] 127.0.0.1:39078 Accepted
+[Sun May 30 19:40:58 2021] 127.0.0.1:39080 Accepted
+[Sun May 30 19:40:58 2021] 127.0.0.1:39078 [200]: (null) /js/main.js
+[Sun May 30 19:40:58 2021] 127.0.0.1:39078 Closing
+[Sun May 30 19:40:58 2021] 127.0.0.1:39080 [200]: (null) /js/location.js
+[Sun May 30 19:40:58 2021] 127.0.0.1:39080 Closing
+[Sun May 30 19:40:58 2021] 127.0.0.1:39082 Accepted
+[Sun May 30 19:40:58 2021] 127.0.0.1:39082 [200]: (null) /
+[Sun May 30 19:40:58 2021] 127.0.0.1:39082 Closing
+[Sun May 30 19:40:58 2021] 127.0.0.1:39084 Accepted
+[Sun May 30 19:40:58 2021] 127.0.0.1:39084 [200]: (null) /js/info.js
+[Sun May 30 19:40:58 2021] 127.0.0.1:39084 Closing
+[Sun May 30 19:40:58 2021] 127.0.0.1:39086 Accepted
+[Sun May 30 19:40:58 2021] 127.0.0.1:39086 [200]: (null) /js/warpspeed.min.js
+[Sun May 30 19:40:58 2021] 127.0.0.1:39086 Closing
+[Sun May 30 19:41:01 2021] 127.0.0.1:39092 Accepted
+[Sun May 30 19:41:01 2021] 127.0.0.1:39092 [200]: (null) /js/info.js
+[Sun May 30 19:41:01 2021] 127.0.0.1:39092 Closing
+[Sun May 30 19:41:01 2021] 127.0.0.1:39094 Accepted
+[Sun May 30 19:41:01 2021] 127.0.0.1:39094 [200]: (null) /js/location.js
+[Sun May 30 19:41:01 2021] 127.0.0.1:39094 Closing
+[Sun May 30 19:41:02 2021] 127.0.0.1:39096 Accepted
+[Sun May 30 19:41:02 2021] 127.0.0.1:39096 [200]: (null) /js/main.js
+[Sun May 30 19:41:02 2021] 127.0.0.1:39096 Closing
+[Sun May 30 19:41:02 2021] 127.0.0.1:39100 Accepted
+[Sun May 30 19:41:02 2021] 127.0.0.1:39100 [200]: (null) /css/main.css
+[Sun May 30 19:41:02 2021] 127.0.0.1:39100 Closing
+[Sun May 30 19:41:02 2021] 127.0.0.1:39098 Accepted
+[Sun May 30 19:41:02 2021] 127.0.0.1:39098 [200]: (null) /js/warpspeed.min.js
+[Sun May 30 19:41:02 2021] 127.0.0.1:39098 Closing
+[Sun May 30 19:41:05 2021] 127.0.0.1:39102 Accepted
+[Sun May 30 19:41:05 2021] 127.0.0.1:39102 [200]: POST /php/info.php
+[Sun May 30 19:41:05 2021] 127.0.0.1:39102 Closing
+[Sun May 30 19:41:09 2021] 127.0.0.1:39106 Accepted
+[Sun May 30 19:41:09 2021] 127.0.0.1:39106 [200]: POST /php/info.php
+[Sun May 30 19:41:09 2021] 127.0.0.1:39106 Closing
+[Sun May 30 19:41:35 2021] 127.0.0.1:39118 Accepted
+[Sun May 30 19:41:35 2021] 127.0.0.1:39118 [200]: POST /php/result.php
+[Sun May 30 19:41:35 2021] 127.0.0.1:39118 Closing
+[Sun May 30 19:41:41 2021] 127.0.0.1:39124 Accepted
+[Sun May 30 19:41:41 2021] 127.0.0.1:39124 [200]: POST /php/result.php
+[Sun May 30 19:41:41 2021] 127.0.0.1:39124 Closing
+[Sun May 30 19:41:42 2021] 127.0.0.1:39126 Accepted
+[Sun May 30 19:41:42 2021] 127.0.0.1:39126 [200]: POST /php/result.php
+[Sun May 30 19:41:42 2021] 127.0.0.1:39126 Closing
+[Sun May 30 19:41:42 2021] 127.0.0.1:39128 Accepted
+[Sun May 30 19:41:42 2021] 127.0.0.1:39128 [200]: POST /php/result.php
+[Sun May 30 19:41:42 2021] 127.0.0.1:39128 Closing
+[Sun May 30 19:41:45 2021] 127.0.0.1:39138 Accepted
+[Sun May 30 19:41:45 2021] 127.0.0.1:39138 [200]: POST /php/result.php
+[Sun May 30 19:41:45 2021] 127.0.0.1:39138 Closing
+[Sun May 30 19:41:47 2021] 127.0.0.1:39140 Accepted
+[Sun May 30 19:41:47 2021] 127.0.0.1:39140 [200]: POST /php/result.php
+[Sun May 30 19:41:47 2021] 127.0.0.1:39140 Closing
