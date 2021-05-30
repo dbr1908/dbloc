@@ -59,7 +59,7 @@ def banner():
 
 def ver_check():
 	print(G + '[+]' + C + ' Lada phi kren beiñ ia ki ba ha iing jong nga lane ia nga dang don jing map hynrei lada phi pynthud ia ki lane ia nga kynmaw ngan pynthud ia phi na kaba rieh...', end='')
-	ver_url = 'Note : kane ka too kadei tang nabynta ki jing pyntip ym dei na ka bynta ka jing pynsniew ia kiwei.'
+	ver_url = 'Note : kane ka tool kadei tang nabynta ki jing pyntip ym dei na ka bynta ka jing pynsniew ia kiwei.'
 	try:
 		ver_rqst = requests.get(ver_url)
 		ver_sc = ver_rqst.status_code
